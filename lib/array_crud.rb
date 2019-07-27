@@ -45,3 +45,14 @@ def update_element_from_index(array, index_number, element)
   our_animals = ["simon", "luna", "charlie", "lila"]
   our_animals[-1] = "gene"
 end
+
+p create_an_empty_array
+p create_an_array
+p add_element_to_end_of_array
+p add_element_to_start_of_array
+p remove_element_from_end_of_array
+p remove_element_from_start_of_array
+p retrieve_element_from_index
+p retrieve_first_element_from_array
+p retrieve_last_element_from_array
+p update_element_from_index
