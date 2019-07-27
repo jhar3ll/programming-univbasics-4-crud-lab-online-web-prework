@@ -44,3 +44,5 @@ def update_element_from_index(array, index_number, element)
   our_animals = ["simon", "luna", "charlie", "lila"]
   our_animals[-1] = "gene"
 end
+
+add_element_to_end_of_array (our_animals << "eli")
