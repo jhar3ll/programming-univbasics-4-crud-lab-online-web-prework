@@ -45,4 +45,4 @@ def update_element_from_index(array, index_number, element)
   our_animals[-1] = "gene"
 end
 
-p add_element_to_end_of_array (our_animals, "eli")
+p add_element_to_end_of_array (our_animals << "eli")
