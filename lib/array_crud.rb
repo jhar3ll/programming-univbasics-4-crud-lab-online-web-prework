@@ -8,7 +8,6 @@ end
 
 def add_element_to_end_of_array(array, element)
   our_animals = ["simon", "luna", "charlie", "lila"]
-  
 end
 
 def add_element_to_start_of_array(array, element)
@@ -45,3 +44,4 @@ def update_element_from_index(array, index_number, element)
   our_animals = ["simon", "luna", "charlie", "lila"]
   our_animals[-1] = "gene"
 end
+
