@@ -18,8 +18,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  our_animals = ["simon", "luna", "charlie", "lila"]
-  our_animals.pop( "eli")
+ array = ["wow", "I", "am", "really", "learning"]
+ array.pop
 end
 
 def remove_element_from_start_of_array(array)
