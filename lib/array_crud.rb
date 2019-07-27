@@ -43,6 +43,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-  our_animals = ["simon", "luna", "charlie", "lila"]
-  our_animals[-1] = "gene"
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  
 end
